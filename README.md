@@ -1,2 +1,2 @@
 # News.io
-using news api
+A simple news app using News api
