@@ -1,6 +1,20 @@
 body {
   display: none;
 }
+.card-body > ::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+.nav-link.active {
+  border: 1px solid #000 !important;
+  border-radius: 10px !important;
+}
+.nav-link:hover {
+  border-radius: 10px !important;
+}
+.nav-tabs .nav-item {
+  margin-bottom: 0px;
+}
 
 @media only screen and (max-width: 570px) {
   .title {

@@ -14,4 +14,12 @@ getElementById('sports').addEventListener('click', () => {
   fetchNews('sports');
 });
 
+getElementById('science').addEventListener('click', () => {
+  fetchNews('science');
+});
+
+getElementById('entertainment').addEventListener('click', () => {
+  fetchNews('entertainment');
+});
+
 getElementById('general').click();
