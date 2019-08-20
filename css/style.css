@@ -13,7 +13,7 @@ body {
   border-radius: 10px !important;
 }
 .nav-tabs .nav-item {
-  margin-bottom: 0px;
+  margin-bottom: 0px !important;
 }
 
 @media only screen and (max-width: 570px) {
