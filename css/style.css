@@ -16,6 +16,10 @@ body {
   margin-bottom: 0px !important;
 }
 
+.nav-tabs {
+  border-bottom: 0px !important;
+}
+
 @media only screen and (max-width: 570px) {
   .title {
     font-size: 2.5rem;
